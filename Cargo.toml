@@ -1,0 +1,6 @@
+[package]
+name = "cargobug"
+version = "0.1.0"
+authors = ["yshuiv7 <yshuiv7@gmail.com>"]
+
+[dependencies]
